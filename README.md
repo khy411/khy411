@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student broadening my knowledge in data science and software development. <br>
+2nd year computer science @ admu <br>
 
 
 # 💻 Tech Stack:
