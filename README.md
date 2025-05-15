@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student broadening my knowledge on data science and software development. <br>
+I am a Computer Science student broadening my knowledge in data science and software development. <br>
 
 
 # 💻 Tech Stack:
