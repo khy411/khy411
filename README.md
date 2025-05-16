@@ -1,5 +1,8 @@
 # 💫 About Me:
-2nd year computer science @ admu <br>
+2nd year computer science @ admu
+contact at:
+  09762347292
+  khy.almojuela@gmail.com <br>
 
 
 # 💻 Tech Stack:
