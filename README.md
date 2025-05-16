@@ -1,7 +1,7 @@
 # 💫 About Me:
-2nd year computer science @ admu
-contact at:
-  09762347292
+2nd year computer science @ admu <br>
+contact at: <br>
+  09762347292 <br>
   khy.almojuela@gmail.com <br>
 
 
