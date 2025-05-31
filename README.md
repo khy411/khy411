@@ -1,7 +1,7 @@
 # About Me:
-3rd year computer science @ admu<br\>
-
+3rd year computer science @ admu<br/>
 currently learning: Vue
+
 
 
 # Tech Stack:
