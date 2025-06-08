@@ -1,6 +1,6 @@
 # About Me:
 3rd year computer science @ admu<br/>
-currently learning: Vue
+currently learning: Vue, React, Node
 
 
 
